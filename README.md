@@ -13,10 +13,11 @@ float LONG = 17.647720;
 
 Additional you have a 3D-Model for case to print...
 
-
+https://github.com/fanta2596/intelligentCompass/blob/master/GPSCompass.stl
 
 **********************************************
 
 ... and the circuit is here...
 
 
+![PCB](https://github.com/fanta2596/intelligentCompass/blob/master/gps_Steckplatine.jpg)
